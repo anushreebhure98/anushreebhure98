@@ -77,8 +77,8 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 | 🤖 **TalentRush** | AI-assisted recruitment screening platform (DevHacks Hackathon). Automates resume parsing, adaptive AI-driven interviews, and bias-aware candidate evaluation | Python · FastAPI · React · LLM · NLP |
 | ☁️ **Elastic Face Recognition on AWS** | Distributed recognition service (1000+ req/hr); auto-scaling EC2 pool (0–15) via SQS; P95 latency <3s; idle compute costs cut 60% | Python · Flask · PyTorch · EC2/S3/SQS |
 | 🩺 **Skin Cancer Prediction** | CNN + K-means ROI classifier at 96% accuracy; graphical-password security. **Published in IJFGCN 2020** | Python · CNN · Computer Vision |
-| ⚙️ **Grammel Language** | Mini-compiler in Java using ANTLR: lexer, parser, AST, semantic checks, runtime with error recovery | Java · ANTLR · OOP / DSA |
-| 📋 **Scrum Board Simulator** | Sprint/WIP/burndown web app with Firebase backend and CI pipeline | JavaScript · Firebase |
+| ⚙️ **Grammel Language** | Custom statically-typed language (Java structure + Python readability). Grammar migrated from Prolog DCG → ANTLR 4; Java interpreter supports loops, if-else, ternary expressions, and block scoping | Java · ANTLR · Prolog · Compilers |
+| 📋 **Scrum Board Simulator** | Desktop Java simulation of Scrum dynamics. Sprint planning, user story state machine, backlogs, blockers, spikes, and Scrum roles; Swing GUI with Factory/Singleton patterns and JUnit test suite | Java · Swing · Gradle · JUnit · Design Patterns |
 | 🌾 **Kisaan Android App** | Real-time crop info app with Firebase backend, offline caching, and push notifications | Android · Java · Firebase |
 
 ---
