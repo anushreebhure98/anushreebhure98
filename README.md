@@ -71,7 +71,7 @@ me.say_hi()
 
 **Salesforce Platform**
 
-<img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="48" height="48" alt="Salesforce"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mulesoft/00A1E0" width="48" height="48" alt="MuleSoft"/>
+<img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48" height="48" alt="Salesforce"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" width="48" height="48" alt="MuleSoft"/>
 
 `Apex` · `Lightning Web Components` · `CPQ` · `Flows` · `Agentforce` · `MuleSoft REST APIs` · `SOQL`
 
@@ -126,11 +126,13 @@ Proposed a CNN pipeline with K-means ROI extraction to classify melanoma vs. nev
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushreebhure98&show_icons=true&theme=tokyonight&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&count_private=true&cache_seconds=1800" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushreebhure98&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6&cache_seconds=1800" height="155" />
+  <img src="https://streak-stats.demolab.com?user=anushreebhure98&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6" height="155" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anushreebhure98&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6" height="155" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anushreebhure98&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushreebhure98&theme=tokyo-night&hide_border=true&color=8b5cf6&line=06b6d4&point=8b5cf6" />
 </div>
 
 ---
