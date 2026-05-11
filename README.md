@@ -32,6 +32,7 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -56,6 +57,8 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -73,9 +76,11 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 |---|---|---|
 | 🏆 **AstraNode** | AI-powered GraphRAG platform transforming 600+ NASA bioscience publications into an interactive knowledge graph. LLM entity extraction (Gemini AI, LLaMA) → Neo4j triples → D3.js citation explorer. **Winner from thousands of teams — NASA Space Apps Challenge, Phoenix AZ 2025** | Python · FastAPI · Neo4j · React · D3.js · Gemini AI · LLaMA |
 | 🛡️ **RAG Poisoning & Detection** | End-to-end RAG robustness framework: factual-swap and semantic-distortion attacks against Llama 3.1 8B + neural classifier over embedding-space anomalies, benchmarked on Natural Questions | LangChain · Llama 3.1 · PyTorch |
+| ⛓️ **Supply Chain Provenance System** | Permissioned blockchain supply chain tracker (CSE 540). Hyperledger Fabric 2.5 Go chaincode enforces 5-state shipment lifecycle with X.509 RBAC, SHA-256 off-chain integrity bridge (IPFS/S3), two-stage IoT device registration. 18/18 unit tests; write latency <350 ms | Go · Hyperledger Fabric · Node.js · CouchDB · IPFS · Docker |
 | 📊 **Recommendation Systems** | 8 collaborative filtering models (SVD, K-means co-clustering, hybrid, ensemble) on MovieLens 20M (138K users, 27K movies, 99.5% sparsity). K-means user segmentation enables explainable recommendations — 13.7% RMSE improvement | Python · Scikit-learn · SciPy · Collaborative Filtering |
 | 🤖 **TalentRush** | AI-assisted recruitment screening platform (DevHacks Hackathon). Automates resume parsing, adaptive AI-driven interviews, and bias-aware candidate evaluation | Python · FastAPI · React · LLM · NLP |
 | ☁️ **Elastic Face Recognition on AWS** | Distributed recognition service (1000+ req/hr); auto-scaling EC2 pool (0–15) via SQS; P95 latency <3s; idle compute costs cut 60% | Python · Flask · PyTorch · EC2/S3/SQS |
+| 🔁 **Streaming Graph Pipeline on Kubernetes** | Two-phase pipeline over 3.6M NYC taxi records (CSE 511, 100/100). Docker → Kubernetes migration with Kafka + Kafka Connect streaming into Neo4j; live BFS & PageRank mid-ingest; zero query-layer changes between phases | Python · Kafka · Kubernetes · Neo4j · Helm · Docker |
 | 🩺 **Skin Cancer Prediction** | CNN + K-means ROI classifier at 96% accuracy; graphical-password security. **Published in IJFGCN 2020** | Python · CNN · Computer Vision |
 | ⚙️ **Grammel Language** | Custom statically-typed language (Java structure + Python readability). Grammar migrated from Prolog DCG → ANTLR 4; Java interpreter supports loops, if-else, ternary expressions, and block scoping | Java · ANTLR · Prolog · Compilers |
 | 📋 **Scrum Board Simulator** | Desktop Java simulation of Scrum dynamics. Sprint planning, user story state machine, backlogs, blockers, spikes, and Scrum roles; Swing GUI with Factory/Singleton patterns and JUnit test suite | Java · Swing · Gradle · JUnit · Design Patterns |
