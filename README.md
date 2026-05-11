@@ -71,11 +71,9 @@ me.say_hi()
 
 **Salesforce Platform**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
+<img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="48" height="48" alt="Salesforce"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mulesoft/00A1E0" width="48" height="48" alt="MuleSoft"/>
 
-`Lightning Web Components` · `CPQ` · `Flows` · `Agentforce` · `SOQL`
+`Apex` · `Lightning Web Components` · `CPQ` · `Flows` · `Agentforce` · `MuleSoft REST APIs` · `SOQL`
 
 </div>
 
