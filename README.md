@@ -20,7 +20,9 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 - 🏢 Business Analyst Aide @ **ASU Admission Services** — Salesforce CRM
 - 🎓 M.S. Computer Science @ **Arizona State University** (GPA: 3.62 · Jan 2027)
 - 💼 4 years at **Accenture** across Salesforce CPQ, LWC, Aura, and MuleSoft integrations
-- 🚀 **NASA Space Apps Challenge Winner** — Advanced to Global Judging
+- 🏆 **NASA Space Apps Challenge Winner** — AstraNode, Advanced to Global Judging
+- 🏅 **Best Performer Award** — Accenture
+- 📄 **Published** in International Journal of Future Generation Communication and Networking (2020)
 
 ---
 
@@ -70,6 +72,10 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 | 🏆 **AstraNode** | GraphRAG platform ingesting 600+ NASA publications. LLM entity extraction → Neo4j triples → interactive D3.js citation explorer. **NASA Space Apps Winner, Global Judging** | Python · FastAPI · Neo4j · React · D3.js |
 | 🛡️ **RAG Poisoning & Detection** | End-to-end RAG robustness framework: factual-swap and semantic-distortion attacks against Llama 3.1 8B + neural classifier over embedding-space anomalies, benchmarked on Natural Questions | LangChain · Llama 3.1 · PyTorch |
 | 📊 **Recommendation Systems** | Hybrid User-Item model on MovieLens 20M (138K users, 99.5% sparsity) combining user preferences, item popularity, and cluster patterns — 13.7% RMSE improvement | Python · Collaborative Filtering |
+| 🩺 **Skin Cancer Prediction** | CNN + K-means ROI classifier at 96% accuracy; graphical-password security. **Published in IJFGCN 2020** | Python · CNN · Computer Vision |
+| ⚙️ **Grammel Language** | Mini-compiler in Java using ANTLR: lexer, parser, AST, semantic checks, runtime with error recovery | Java · ANTLR · OOP / DSA |
+| 📋 **Scrum Board Simulator** | Sprint/WIP/burndown web app with Firebase backend and CI pipeline | JavaScript · Firebase |
+| 🌾 **Kisaan Android App** | Real-time crop info app with Firebase backend, offline caching, and push notifications | Android · Java · Firebase |
 
 ---
 
@@ -83,6 +89,18 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 | AWS Cloud Native | ✅ Earned |
 | Agentforce Specialist | 🔄 Scheduled |
 | Salesforce Platform Developer I | 🔄 Scheduled |
+| Complete Python Bootcamp | ✅ Earned (Udemy) |
+| Career Edge | ✅ Earned (TCS iON) |
+| Spoken Tutorial — Python | ✅ Earned (IIT Bombay) |
+
+---
+
+### Publication
+
+**Securing Skin Cancer Detection using CNN Secured with Graphical Password**
+*International Journal of Future Generation Communication and Networking — Jun 2020*
+
+Proposed a CNN pipeline with K-means ROI extraction to classify melanoma vs. nevus at 96% accuracy; access secured with graphical-password authentication. Presented at the International Conference on Future Intelligence in Science & Technology.
 
 ---
 
