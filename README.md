@@ -2,7 +2,7 @@
 
 # Hi, I'm Anushree 👋
 
-**Software Engineer · M.S. Computer Science @ ASU · Salesforce + AI/ML**
+**Software Engineer · M.S. Computer Science @ ASU · AI/ML &amp; Distributed Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushree-bhure)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anubhure98@gmail.com)
