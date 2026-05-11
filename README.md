@@ -71,9 +71,10 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏆 **AstraNode** | GraphRAG platform ingesting 600+ NASA publications. LLM entity extraction → Neo4j triples → interactive D3.js citation explorer. **NASA Space Apps Winner, Global Judging** | Python · FastAPI · Neo4j · React · D3.js |
+| 🏆 **AstraNode** | AI-powered GraphRAG platform transforming 600+ NASA bioscience publications into an interactive knowledge graph. LLM entity extraction (Gemini AI, LLaMA) → Neo4j triples → D3.js citation explorer. **Winner from thousands of teams — NASA Space Apps Challenge, Phoenix AZ 2025** | Python · FastAPI · Neo4j · React · D3.js · Gemini AI · LLaMA |
 | 🛡️ **RAG Poisoning & Detection** | End-to-end RAG robustness framework: factual-swap and semantic-distortion attacks against Llama 3.1 8B + neural classifier over embedding-space anomalies, benchmarked on Natural Questions | LangChain · Llama 3.1 · PyTorch |
-| 📊 **Recommendation Systems** | Hybrid User-Item model on MovieLens 20M (138K users, 99.5% sparsity) combining user preferences, item popularity, and cluster patterns — 13.7% RMSE improvement | Python · Collaborative Filtering |
+| 📊 **Recommendation Systems** | 8 collaborative filtering models (SVD, K-means co-clustering, hybrid, ensemble) on MovieLens 20M (138K users, 27K movies, 99.5% sparsity). K-means user segmentation enables explainable recommendations — 13.7% RMSE improvement | Python · Scikit-learn · SciPy · Collaborative Filtering |
+| 🤖 **TalentRush** | AI-assisted recruitment screening platform (DevHacks Hackathon). Automates resume parsing, adaptive AI-driven interviews, and bias-aware candidate evaluation | Python · FastAPI · React · LLM · NLP |
 | ☁️ **Elastic Face Recognition on AWS** | Distributed recognition service (1000+ req/hr); auto-scaling EC2 pool (0–15) via SQS; P95 latency <3s; idle compute costs cut 60% | Python · Flask · PyTorch · EC2/S3/SQS |
 | 🩺 **Skin Cancer Prediction** | CNN + K-means ROI classifier at 96% accuracy; graphical-password security. **Published in IJFGCN 2020** | Python · CNN · Computer Vision |
 | ⚙️ **Grammel Language** | Mini-compiler in Java using ANTLR: lexer, parser, AST, semantic checks, runtime with error recovery | Java · ANTLR · OOP / DSA |
