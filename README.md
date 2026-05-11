@@ -58,6 +58,8 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **AI / ML**
 
@@ -72,6 +74,7 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 | 🏆 **AstraNode** | GraphRAG platform ingesting 600+ NASA publications. LLM entity extraction → Neo4j triples → interactive D3.js citation explorer. **NASA Space Apps Winner, Global Judging** | Python · FastAPI · Neo4j · React · D3.js |
 | 🛡️ **RAG Poisoning & Detection** | End-to-end RAG robustness framework: factual-swap and semantic-distortion attacks against Llama 3.1 8B + neural classifier over embedding-space anomalies, benchmarked on Natural Questions | LangChain · Llama 3.1 · PyTorch |
 | 📊 **Recommendation Systems** | Hybrid User-Item model on MovieLens 20M (138K users, 99.5% sparsity) combining user preferences, item popularity, and cluster patterns — 13.7% RMSE improvement | Python · Collaborative Filtering |
+| ☁️ **Elastic Face Recognition on AWS** | Distributed recognition service (1000+ req/hr); auto-scaling EC2 pool (0–15) via SQS; P95 latency <3s; idle compute costs cut 60% | Python · Flask · PyTorch · EC2/S3/SQS |
 | 🩺 **Skin Cancer Prediction** | CNN + K-means ROI classifier at 96% accuracy; graphical-password security. **Published in IJFGCN 2020** | Python · CNN · Computer Vision |
 | ⚙️ **Grammel Language** | Mini-compiler in Java using ANTLR: lexer, parser, AST, semantic checks, runtime with error recovery | Java · ANTLR · OOP / DSA |
 | 📋 **Scrum Board Simulator** | Sprint/WIP/burndown web app with Firebase backend and CI pipeline | JavaScript · Firebase |
