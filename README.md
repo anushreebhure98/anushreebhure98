@@ -26,6 +26,25 @@ I build at the intersection of **Salesforce platform engineering** and **applied
 
 ---
 
+```python
+class Anushree:
+    def __init__(self):
+        self.location        = "Tempe, AZ"
+        self.education       = "M.S. Computer Science @ ASU (Jan 2027)"
+        self.languages       = ["Python", "Java", "Go", "JavaScript", "TypeScript", "C++", "SQL"]
+        self.currently_building = "AI/ML systems + Salesforce platform engineering"
+        self.interests       = ["RAG & knowledge graphs", "distributed systems", "LLM applications"]
+        self.fun_fact        = "Won NASA Space Apps Challenge 2025 — out of thousands of teams 🚀"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great together.")
+
+me = Anushree()
+me.say_hi()
+```
+
+---
+
 ### Tech Stack
 
 **Languages**
