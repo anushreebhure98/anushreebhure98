@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Hi%2C%20I%27m%20Anushree%20%F0%9F%91%8B&fontSize=52&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%26%20Distributed%20Systems&descAlignY=60&descAlign=50&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Hi%2C%20I%27m%20Anushree&fontSize=52&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Distributed%20Systems&descAlignY=60&descAlign=50&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+AI%2FML+systems+%F0%9F%A4%96;Salesforce+Platform+Engineer+%E2%98%81%EF%B8%8F;NASA+Space+Apps+Challenge+Winner+%F0%9F%9A%80;M.S.+CS+%40+Arizona+State+University+%F0%9F%8E%93;4+years+at+Accenture+%C2%B7+CPQ+%2B+LWC+%2B+MuleSoft)](https://git.io/typing-svg)
 
