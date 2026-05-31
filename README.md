@@ -23,7 +23,7 @@
 I build at the intersection of **Salesforce platform engineering** and **applied AI** — from CPQ pricing flows and Agentforce agents to RAG pipelines and graph-based retrieval systems.
 
 - 🏢 Business Analyst Aide @ **ASU Admission Services** — Salesforce CRM
-- 🎓 M.S. Computer Science @ **Arizona State University** (GPA: 3.62 · Jan 2027)
+- 🎓 M.S. Computer Science @ **Arizona State University** (GPA: 3.81 · Jan 2027)
 - 💼 4 years at **Accenture** across Salesforce CPQ, LWC, Aura, and MuleSoft integrations
 - 🏆 **NASA Space Apps Challenge Winner** — AstraNode, Advanced to Global Judging
 - 🏅 **Best Performer Award** — Accenture
